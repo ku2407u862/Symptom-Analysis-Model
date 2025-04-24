@@ -3,6 +3,11 @@
 ## Project Objective
 Analyse the provided symptoms to related health diseases
 
+## Group Members
+- **Jaival Kansara** - ku2407u862  
+- **Sameer Chauhan** - ku2407u759
+- **Nishant Iyer** - ku2407u455
+
 ## Tools & Libraries
 
 ### Tools and Libraries Used
