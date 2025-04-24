@@ -1,0 +1,100 @@
+symptom1,symptom2,symptom3,disease
+fever,headache,cough,Flu
+chest pain,shortness of breath,sweating,Heart Attack
+sneezing,runny nose,itchy eyes,Allergy
+nausea,vomiting,abdominal pain,Food Poisoning
+headache,sensitivity to light,nausea,Migraine
+joint pain,swelling,stiffness,Arthritis
+fever,rash,body ache,Measles
+thirst,frequent urination,blurred vision,Diabetes
+back pain,stiffness,joint pain,Arthritis
+fever,sore throat,tiredness,COVID-19
+fatigue,nausea,headache,Migraine
+sore throat,cough,tiredness,Common Cold
+muscle pain,joint pain,swelling,Arthritis
+tension,fatigue,irritation,Anxiety
+dizziness,headache,blurred vision,Stroke
+chest pain,sweating,difficulty breathing,Heart Attack
+vomiting,diarrhea,stomach cramps,Food Poisoning
+runny nose,sore throat,sneezing,Common Cold
+numbness,dizziness,slurred speech,Stroke
+itchy eyes,runny nose,sneezing,Allergy
+tiredness,cough,loss of taste,COVID-19
+fever,headache,sore throat,Flu
+fever,chills,cough,Flu
+joint stiffness,joint pain,fatigue,Arthritis
+shortness of breath,dizziness,rapid heartbeat,Heart Attack
+loss of taste,loss of smell,fever,COVID-19
+blurred vision,numbness,difficulty speaking,Stroke
+rash,itching,swelling,Allergy
+fever,body ache,chills,Dengue
+restlessness,difficulty sleeping,trembling,Anxiety
+muscle pain,fatigue,fever,Dengue
+abdominal pain,diarrhea,vomiting,Food Poisoning
+chest pain,arm pain,shortness of breath,Heart Attack
+headache,visual aura,nausea,Migraine
+frequent urination,weight loss,blurred vision,Diabetes
+fever,cough,shortness of breath,Pneumonia
+sore throat,runny nose,fever,Common Cold
+rash,fever,red eyes,Measles
+joint swelling,warmth,stiffness,Arthritis
+confusion,slurred speech,dizziness,Stroke
+palpitation,sweating,muscle tention,Anxiety
+itchy skin,rash,sneezing,Allergy
+tiredness,chills,loss of taste,COVID-19
+fever,cough,fatigue,COVID-19
+vomiting,stomach cramps,nausea,Food Poisoning
+swelling,redness,pain,Arthritis
+headache,dizziness,loss of balance,Stroke
+fever,headache,rash,Dengue
+fever,stiff neck,headache,Meningitis
+photophobia,stiff neck,nausea,Meningitis
+loss of taste,fever,dry cough,COVID-19
+muscle ache,headache,tiredness,Flu
+joint pain,fatigue,morning stiffness,Arthritis
+blurred vision,speech difficulty,weakness,Stroke
+thirst,blurred vision,tiredness,Diabetes
+runny nose,cough,fever,Common Cold
+headache,nausea,vomiting,Migraine
+skin rash,itchy skin,watery eyes,Allergy
+rash,high fever,runny nose,Measles
+pain in chest,nausea,shortness of breath,Heart Attack
+fever,diarrhea,nausea,Food Poisoning
+fatigue,cough,shortness of breath,COVID-19
+painful urination,fatigue,thirst,Diabetes
+muscle weakness,fever,headache,Flu
+chest discomfort,nausea,sweating,Heart Attack
+stomach ache,nausea,vomiting,Food Poisoning
+chills,fever,headache,Flu
+fatigue,headache,fever,Flu
+nausea,vomiting,headache,Food Poisoning
+joint pain,swelling,stiffness,Arthritis
+muscle pain,fatigue,dizziness,Flu
+itchy eyes,sneezing,runny nose,Allergy
+fever,tiredness,headache,COVID-19
+cough,sore throat,tiredness,Cold
+fatigue,nausea,dizziness,Migraine
+vomiting,diarrhea,stomach ache,Food Poisoning
+blurred vision,fatigue,dry mouth,Diabetes
+dizziness,lightheadedness,headache,Stroke
+back pain,muscle tightness,stiffness,Arthritis
+fever,headache,chills,Flu
+fatigue,loss of apetite, shortness of breath,Pneumonia
+headache,sensitivity to light,blurred vision,Migraine
+diarrhea,vomiting,stomach cramps,Food Poisoning
+shortness of breath,fatigue,chest pain,Heart Attack
+nausea,headache,tiredness,Migraine
+muscle aches,fatigue,fever,Flu
+fever,chills,sore throat,Cold
+dizziness,blurred vision,fainting,Stroke
+runny nose,sneezing,tiredness,Common Cold
+fever,cough,headache,COVID-19
+chest pain,nausea,difficulty breathing,Heart Attack
+swollen joints,pain,stiffness,Arthritis
+headache,nausea,dizziness,Migraine
+nausea,vomiting,fever,Food Poisoning
+numbness,tingling,dizziness,Stroke
+fever,chills,cough,Pneumonia
+headache,dizziness,shortness of breath,Stroke
+muscle weakness,loss of appetite,fatigue,Arthritis
+runny nose,cough,sore throat,Common Cold
