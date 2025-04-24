@@ -40,7 +40,7 @@ Currently, the project uses a synthetic dataset created for demonstration purpos
 3. **Run the Script**:
    - Execute the script in your terminal or command prompt:
      ```bash
-     python app.py
+     streamlit run app.py
      ```
    - The script will generate the following outputs:
      - **Console Output**: Predicted output o disease
